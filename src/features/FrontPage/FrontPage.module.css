@@ -1,0 +1,20 @@
+.FrontPage{
+    text-align: center;
+}
+
+.card{
+    margin: 20px;
+    padding: 20px;
+}
+
+Button{
+    width: 200px;
+}
+
+Table{
+    margin-top: 20px;
+}
+
+.barangImage{
+    width: 100px;
+}
